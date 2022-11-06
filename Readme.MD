@@ -1,6 +1,6 @@
 # Zen's Keyboard Input Dialog
 
-This is a modified version of biud436's RS_InputDialog.js plugin for RPGMaker. 
+This is a modified version of biud436's RS_InputDialog.js plugin for RPGMaker MV & MZ. 
 This includes the customizability of adding password inputs to the game engine. 
 
 Copyright &copy;2016-2022 
